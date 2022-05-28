@@ -4,4 +4,5 @@ Dedicado a compartilhar anotações, exercícios e projetos desenvolvidos ao lon
 **Projetos**
 
  - [Primeiro projeto HTML/CSS](https://github.com/Krjorn/HTML-CSS.git)
+ - [Projeto de Portfólio](https://github.com/Krjorn/Portfolio.git)
 

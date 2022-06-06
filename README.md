@@ -5,4 +5,4 @@ Dedicado a compartilhar anotações, exercícios e projetos desenvolvidos ao lon
 
  - [Primeiro projeto HTML/CSS](https://github.com/Krjorn/HTML-CSS.git)
  - [Projeto de Portfólio](https://github.com/Krjorn/Portfolio.git)
-
+ - [Verificador de Números](https://github.com/Krjorn/synop.git)

@@ -3,7 +3,7 @@ Dedicado a compartilhar anotações, exercícios e projetos desenvolvidos ao lon
 
 ## Projetos
 
- - [Primeiro projeto HTML/CSS](https://github.com/Krjorn/HTML-CSS.git)
- - [Projeto de Portfólio](https://github.com/Krjorn/Portfolio.git)
- - [Verificador de Números](https://github.com/Krjorn/synop.git)
- - [Jogo da Memória](https://github.com/Krjorn/Memory-Game.git)
+ - Primeiro projeto HTML/CSS
+ - Projeto de Portfólio
+ - Verificador de Números (synop)
+ - Jogo da Memória
